@@ -1,6 +1,4 @@
-# Hi there 
-I'm Bobby!
-Still in the Learning Stage,So Don't Judge Hehe
+### Hi, Just call me [BOBBY!](https://github.com/imbobb) ^_^
 
 
 ### Stats:
@@ -11,21 +9,13 @@ Still in the Learning Stage,So Don't Judge Hehe
     - CSS</br>
     - And JavaScript
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=imbobb&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbobb&layout=compact" height=180 />
-</p>
+___
+[![imbobb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbobb&show_icons=true&theme=graywhite)](https://github.com/imbobb)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imbobb&layout=compact&theme=graywhite)](https://github.com/imbobb)
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-AndroidOS-blue?&logo=android" />
-</p>
-
-### Let's connect!
-<p>
-    <a href="https://line.me/ti/p/~imbobby_" target="blank"><img src="https://img.shields.io/badge/LINE-CLICK-yellow?&logo=line&logoColor=green" /></a>
-    <a href="https://instagram.com/ahmdbai_" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-yellow?&logo=instagram&logoColor=white" /></a>
-</p>
+[![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~imbobby_)
+[![Instagram](https://img.shields.io/badge/Instagram-d66bff.svg)](https://instagram.com/ahmdbai_)
+[![Email](https://img.shields.io/badge/Email-ff0660.svg)](mailto:ahmad.baihaqi4647@gmail.com)
 
 <!--
 **imbobb/imbobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
