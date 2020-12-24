@@ -1,4 +1,4 @@
-### Hi, Just call me [Bobby](https://github.com/imbobb) ˘ᆺ˘
+### Hi, Just call me [Bobby](https://github.com/imbobb) ^_^
 
 ___
 [![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbobb&show_icons=true&theme=graywhite)](https://github.com/imbobb)
