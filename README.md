@@ -10,7 +10,7 @@
     - And JavaScript
 </details>
 ___
-[![imbobb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbobb&show_icons=true&theme=graywhite)](https://github.com/imbobb)
+[![Mo-banzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbobb&show_icons=true&theme=graywhite)](https://github.com/imbobb)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imbobb&layout=compact&theme=graywhite)](https://github.com/imbobb)
 
 [![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~imbobby_)
