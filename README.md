@@ -3,7 +3,7 @@
 </p>
 <img src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" align="left" style="width: 100%" />
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/imbobb) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/imbobb?tab=followers)
 
 ---
 ## My skills:
@@ -20,5 +20,5 @@
 [![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~imbobbyv2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdbai_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bloodbreaker_) 
 
 ---
-## You can help me by Donating
+## You can help me by Donate
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahmdbai) 
