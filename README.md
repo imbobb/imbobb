@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=010303&center=true&width=380&lines=Hi!+There;My+name+is+Ahmad+Baihaqi+Priatna;I'm+Junior+Programmer)](https://git.io/typing-svg)
-
-<p align="center"><img alt = "animated" src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" width="500" height="350"/></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=380&lines=Hi!+There;My+name+is+Ahmad+Baihaqi+Priatna;I'm+Junior+Programmer" alt="Typing SVG" /></a><p align="center"><img alt = "animated" src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" width="500" height="350"/></p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imbobb)](https://github.com/imbobb) [![GitHub followers](https://img.shields.io/github/followers/imbobb.svg?style=social&label=Follow)](https://github.com/imbobb?tab=followers)
 
