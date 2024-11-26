@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello! There;I'm Ahmad Baihaqi Priatna;I'm Junior Programer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello! There;I'm Ahmad Baihaqi Priatna;I'm Junior Programmer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000" alt="Example Usage - README Typing SVG">
 </p>
+
+<p align="center"><img alt = "animated" src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" width="500" height="350"/></p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imbobb)](https://github.com/imbobb) [![GitHub followers](https://img.shields.io/github/followers/imbobb.svg?style=social&label=Follow)](https://github.com/imbobb?tab=followers)
 
