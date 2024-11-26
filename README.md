@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello! There;I'm Ahmad Baihaqi Priatna&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<img src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" align="left" style="width: 100%" />
+<img src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" align="left" style="width: 85%" />
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imbobb)](https://github.com/imbobb) [![GitHub followers](https://img.shields.io/github/followers/imbobb.svg?style=social&label=Follow)](https://github.com/imbobb?tab=followers)
 
@@ -11,9 +11,9 @@
 
 ---
 ## Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=imbobb&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imbobb&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imbobb&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=imbobb&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imbobb&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imbobb&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ## Connect with me:
