@@ -3,7 +3,6 @@
 </p>
 <img src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" align="left" style="width: 75%" />
 
----
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
 ---
