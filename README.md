@@ -3,7 +3,10 @@
 </p>
 <img src="https://i.ibb.co.com/PQj4TM9/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" align="left" style="width: 100%" />
 
-[![](https://visitcount.itsvg.in/api?id=imbobb&icon=0&color=0)](https://visitcount.itsvg.in) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/imbobb?tab=followers)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=imbobb&&style=flat-square" align="center" />
+</div>
+[![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/imbobb?tab=followers)
 
 ---
 ## My skills:
