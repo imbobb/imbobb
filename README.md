@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=380&lines=Hello%2C+There!;I'm+BOBBY;I'm+Junior+Programmer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=626262E4&center=true&width=380&lines=Hello%2C+There!;My+name+BOBBY;I'm+Junior+Programmer;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"><img alt = "animated" src="https://i.ibb.co.com/stGfGGX/minimalist-eat-sleep-code-1zi2numjxcvd448g.jpg" width="500" height="350"/></p>
