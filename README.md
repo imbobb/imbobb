@@ -18,7 +18,7 @@
 
 ---
 ## Connect with me:
-[![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~imbobbyv2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdbai_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bloodbreaker_) 
+[![LINE](https://img.shields.io/badge/LINE-00ff44.svg)](https://line.me/ti/p/~imbobbyv2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdbai_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahmdbaiii) 
 
 ---
 ## You can help me by Donate
